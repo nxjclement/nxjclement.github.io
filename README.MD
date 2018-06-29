@@ -1,5 +1,5 @@
 
-# About this Cool Concise Jekyll Blog Theme 🤘🤘🤘
+# About this 🤘🤘🤘
 
 [![GitHub stars](https://img.shields.io/github/stars/nxjclement/nxjclement.github.io.svg)](https://github.com/nxjclement/nxjclement.github.io/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/nxjclement/nxjclement.github.io.svg)](https://github.com/nxjclement/nxjclement.github.io/network)
